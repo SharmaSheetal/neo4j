@@ -1,0 +1,18 @@
+// Found article on https://or.stackexchange.com/questions/529/supply-chain-public-data-repository
+// https://pubsonline.informs.org/doi/suppl/10.1287/msom.1070.0176
+// https://pubsonline.informs.org/doi/suppl/10.1287/msom.1070.0176/suppl_file/msom.1070.0176-sm-datainexcel.zip
+
+//Article by Sean P. Willems: https://pdfs.semanticscholar.org/232c/451fcf58dbcc1527de6d02cd6e76aea9e871.pdf?_ga=2.33151675.429569592.1581427039-1552162479.1581427039
+Table 2 Classifications Used to Label Every Stage in the Chains
+Classifications label Activity
+  Dist_ A stage that distributes an item
+  Manuf_ A stage that manufactures or assembles an item
+  Part_ A stage that procures an item
+  Retail_ A stage that acts as a demand orgination point
+  Trans_ A stage that transports an item between stages
+//appendix: http://willems.utk.edu/papers/dl/Willems_MSOM_v10n1_Winter2008_Appendix.pdf
+
+
+
+//full spreadsheet: https://drive.google.com/file/d/1jfheHEKIZK1cnkC8vs-M2vQIcFCtEJ1o/view?usp=sharing
+//google sheet: https://docs.google.com/spreadsheets/d/1vD4UCxsincEQYQpAeCbEqnd3QFdKcuL4ukesbyu5RIc/edit#gid=1371172744
